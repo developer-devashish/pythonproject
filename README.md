@@ -1,5 +1,5 @@
 # pythonproject
-
+About Project
 🧾 BFF Café Billing System (Tkinter + Excel + Receipt Popup)
 This project is a billing system for a café, developed using Python Tkinter.
 It allows the user to enter item quantities, calculates the bill, shows receipt in a popup window, and saves the bill history automatically inside an Excel file.
